@@ -1,6 +1,6 @@
 # ENTRADA
 
-<channels> 
+<channels>  
 <channel>
 <name>[COLOR green][/COLOR][COLOR green][/COLOR][COLOR Blue][/COLOR] [COLOR yellow] ENTRE NO TEADDON [/COLOR] [COLOR gree][/COLOR][COLOR  green][/COLOR][COLOR green][/COLOR]</name> 
 <thumbnail>https://ia902805.us.archive.org/26/items/fanart_20240728/Icon.jpg</thumbnail>
