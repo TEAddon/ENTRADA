@@ -4,7 +4,7 @@
 <channel>
 <name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  white] FICÇÃO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
 <externallink></externallink>
-<thumbnail></thumbnail>
+<thumbnail>https://ia902805.us.archive.org/26/items/fanart_20240728/Icon.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -16,10 +16,34 @@
 <channel>
 <name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  white] AÇÃO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
 <externallink></externallink>
-<thumbnail></thumbnail>
+<thumbnail>https://ia902805.us.archive.org/26/items/fanart_20240728/Icon.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  white] SUSPENSE [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink></externallink>
+<thumbnail>https://ia902805.us.archive.org/26/items/fanart_20240728/Icon.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  white] TERROR [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink></externallink>
+<thumbnail>https://ia902805.us.archive.org/26/items/fanart_20240728/Icon.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+
