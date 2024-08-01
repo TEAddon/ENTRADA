@@ -88,8 +88,8 @@
 <channels>
 <channel>
 <name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  white] FALLOUT [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
-<externallink></externallink>
-<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/fallout</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/celTNAZL0bIw8pO6KZzWd7MAKMT.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </channel>
