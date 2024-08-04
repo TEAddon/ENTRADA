@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] PLANETA DOS MACACOS - O REINADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1bb5ed5d3d9d66c6208020aaf5a50989d2273c9d</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/xncPDbNFr9YnZqaB6Ht9uItaoZO.jpg</thumbnail>
+<fanart></fanart>
+<info>No futuro, várias gerações após o reinado de César, onde os macacos são a espécie dominante que vive harmoniosamente e os humanos foram reduzidos a viver nas sombras. À medida que um novo líder primata tirano constrói o seu império, um jovem macaco inicia uma jornada angustiante que o levará a questionar tudo o que sabe sobre o passado e a fazer escolhas que irão definir o futuro dos macacos e dos humanos.</info>
+</item>
 
 <item> 
 <title>[COLOR silver][B] DEADPOOL & WOLVERINE ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -489,14 +495,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] PLANETA DOS MACACOS - O REINADO ( HDCAM DUBLADO )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D2EADBC0C83202BE004B8EB4751A1A9B3E7FE702</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/xncPDbNFr9YnZqaB6Ht9uItaoZO.jpg</thumbnail>
-<fanart></fanart>
-<info>No futuro, várias gerações após o reinado de César, onde os macacos são a espécie dominante que vive harmoniosamente e os humanos foram reduzidos a viver nas sombras. À medida que um novo líder primata tirano constrói o seu império, um jovem macaco inicia uma jornada angustiante que o levará a questionar tudo o que sabe sobre o passado e a fazer escolhas que irão definir o futuro dos macacos e dos humanos.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] O DÊMONIO ENTRE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f08b86d7af15001dd254412b44e9b53bc88a04b</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/qucBj3zogu3J8LeJb63e7vA0Omm.jpg</thumbnail>
@@ -895,7 +893,7 @@
 
 <item>
 <title>[COLOR silver][B] COLECTION -  PLANETA DOS MACACOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D2EADBC0C83202BE004B8EB4751A1A9B3E7FE702$nome=O REINADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1bb5ed5d3d9d66c6208020aaf5a50989d2273c9d$nome=O REINADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E9CA17D15CDFF360933A980E3DCE77FE114D78E$nome=2001</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F663BF71220DC8BD5A2E7AFD5819930567A6B30$nome=O CONFRONTO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A116760BF0D1E28B8E04BD7230BC0B839F340C3B$nome=A GUERRA</link>
