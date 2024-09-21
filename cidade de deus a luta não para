@@ -5,6 +5,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e58f35eab743698ecf5e4b9463731665154c97c5$nome=EP.2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecc23a115c62772ae17aa07c7b1fda65dbb358cd$nome=EP.3</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98bfb43b8b203fca71cac9965dfbade2a5e5d209$nome=EP.4</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=EP.5 BREVE</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg</thumbnail>
 <fanart></fanart>
 <info> A HBO Max anunciou que está desenvolvendo uma série baseada no filme Cidade de Deus. A ideia da produção é acompanhar a história dos personagens 20 anos após os eventos do filme.</info>
