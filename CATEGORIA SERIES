@@ -3,8 +3,8 @@
 <channels> 
 <channel>
 <name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  white] ORIGEM [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
-<externallink></externallink>
-<thumbnail>https://media.themoviedb.org/t/p/original/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/origem</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/g77cgYpGeTkhKsaBnjWOyjYP9xP.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </channel>
