@@ -1,6 +1,18 @@
 
 <channels> 
 <channel>
+<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  white] ROUND 6 [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink></externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/tNUpYHgso5fvCdFb194ph1l4HfR.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels> 
+<channel>
 <name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  white] E SE?... [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/e%20se%3F</externallink>
 <thumbnail>https://media.themoviedb.org/t/p/original/w29Z0WosgRlKdeQ8qabfzcmYuJ2.jpg</thumbnail>
