@@ -12,13 +12,13 @@
 <title>[COLOR silver][B] E SE? 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JNCVKSDJUHSMFPHHT2RTTEVLIYDHO67A$nome=EP.1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SF2LAW2JSVHVSIIMT2FYQCQH7U5OV7LB$nome=EP.2</link>
-<link>plugin://plugin.video.elementum/play?uri=EP.3</link>
-<link>plugin://plugin.video.elementum/play?uri=EP.4</link>
-<link>plugin://plugin.video.elementum/play?uri=EP.5</link>
-<link>plugin://plugin.video.elementum/play?uri=EP.6</link>
-<link>plugin://plugin.video.elementum/play?uri=EP.7</link>
-<link>plugin://plugin.video.elementum/play?uri=EP.8</link>
-<link>plugin://plugin.video.elementum/play?uri=EP.9</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=EP.3</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=EP.4</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=EP.5</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=EP.6</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=EP.7</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=EP.8</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=EP.9</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/w29Z0WosgRlKdeQ8qabfzcmYuJ2.jpg</thumbnail>
 <fanart></fanart>
 <info>What If… ? é uma série de animação que leva o público para um terreno desconhecido ao contar, de forma alternativa, momentos cruciais do Universo Cinematográfico Marvel, imaginando o que teria acontecido aos super-heróis se a história fosse totalmente diferente e se passasse em outra realidade. Com episódios independentes entre si, a antologia explora o multiverso desenvolvido pelo MCU e mergulha em possibilidades, até então, inimagináveis, e que surpreendem os fãs a cada capítulo.</info>
