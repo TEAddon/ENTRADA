@@ -27,8 +27,8 @@
 <item>
 <title>[COLOR silver][B] E SE? 3º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10b8a0a2488ea9c24c5454fc4b98d8a33b2ee5df$nome=EP.1</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome=EP.2</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome=EP.3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d58c3d552663709c882bf233eebdb9882243a80$nome=EP.2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da56987a4df66e62032e20a4ff24ee3f00d84fe8$nome=EP.3</link>
 <link>plugin://plugin.video.elementum/play?uri=$nome=EP.4</link>
 <link>plugin://plugin.video.elementum/play?uri=$nome=EP.5</link>
 <link>plugin://plugin.video.elementum/play?uri=$nome=EP.6</link>
