@@ -1,7 +1,8 @@
 <item>
-<title>[COLOR silver][B] DUOLOGIA-( BREVE ) ALTO DA COMPADECIDA 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=$nome=magnet:?xt=urn:btih:d64dea631759215465368633b0e4a1c91c845530$nome2000</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/aiepi2do0MdiN4TXIy0OLNGPSzU.jpg</thumbnail>
+<title>[COLOR silver][B] DUOLOGIA-( BREVE ) AUTO DA COMPADECIDA 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$nome=magnet:?xt=urn:btih:d64dea631759215465368633b0e4a1c91c845530$nome=AUTO DA COMPADECIDA 1</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=$nome=AUTO DA COMPADECIDA 2 BREVE</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/2AGBk8Oiv6tamlVcoi6fxPhDUGZ.jpg</thumbnail>
 <fanart></fanart>
 <info>A sequência do sucesso de 2000 - baseado na obra de Ariano Suassuna.</info>
 </item>
