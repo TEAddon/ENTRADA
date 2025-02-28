@@ -2,6 +2,18 @@
 
 <channels> 
 <channel>
+<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  white] CASA DE DAVI [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink></externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels> 
+<channel>
 <name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  white] 1923 [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/1923</externallink>
 <thumbnail>https://media.themoviedb.org/t/p/original/97YimtKZCD0bvHIG4YPgWo3OYar.jpg</thumbnail>
