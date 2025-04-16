@@ -6,7 +6,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:accae6458eec4e8e0c526a2ccd4295b69c1640e7$nome=EP.4</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b611df5c124c9e679e8f2726501e91cd8739b8f$nome=EP.5</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:652e12de8ecf9a16873d7241d80818008b1b3f2b$nome=EP.6</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0ab0d2ed1b202f2f3c91ea3f5a4109c540281cc$nome=EP.7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e78199fa5fcb4bf12a2fcb861a2aa8d3d097d58$nome=EP.7</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg</thumbnail>
 <fanart></fanart>
 <info>Em 1923, spin-off de Yellowstone, conhecemos uma nova geração da família Dutton, dessa vez, sobrevivendo ao início do século 20. Entre alguns dos desafios que os rancheiros terão de enfrentar, estão secas históricas, pandemias e os períodos conhecidos como Proibição e a Grande Depressão. A trama é focada em Cara Dutton e Jacob Dutton, donos do Rancho Yellowstone, enquanto enfrentam inimigos poderosos que ameaçam sua posse de terras.</info>
@@ -18,4 +18,12 @@
 <thumbnail>https://media.themoviedb.org/t/p/original/lKFXQPNX4BRigoE9G9f6HQQi0Jb.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B] 1923 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0ab0d2ed1b202f2f3c91ea3f5a4109c540281cc</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg</thumbnail>
+<fanart></fanart>
+<info>Em 1923, spin-off de Yellowstone, conhecemos uma nova geração da família Dutton, dessa vez, sobrevivendo ao início do século 20. Entre alguns dos desafios que os rancheiros terão de enfrentar, estão secas históricas, pandemias e os períodos conhecidos como Proibição e a Grande Depressão. A trama é focada em Cara Dutton e Jacob Dutton, donos do Rancho Yellowstone, enquanto enfrentam inimigos poderosos que ameaçam sua posse de terras.</info>
 </item>
