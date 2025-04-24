@@ -29,6 +29,15 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] THE LAST OF US 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b0c1a9dff5e2c7ba6493386eda8e11385c2e269$nome=EP.1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:103f5baf946a397b7ef452ed841f54819a26a550$nome=EP.2</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] STAR WARS -  ANDOR 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title> 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d79e60f86e9be95fe1d5da8c33f29730e38957bd$nome=ANDOR 1/3</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:415ee961b43b1541a6cfd949a966f35998e60342$nome=ANDOR 4</link>
@@ -52,6 +61,14 @@
 <fanart></fanart>
 <info>Andor é uma série de suspense e espionagem dentro do universo Star Wars. Acompanhado do andróide K-2S0 (Alan Tudyk), Cassian Andor (Diego Luna) embarca numa nova aventura, tendo como pano de fundo os primeiros dias da Rebelião contra o Império. A série se passa cinco anos antes dos eventos de Rogue One, onde Andor foi piloto e agente de inteligência da Aliança Rebelde, líder da Rogue One, unidade que, naquela ocasião, tentou roubar os planos da Estrela da Morte.
 </info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ASH: PLANETA PARASITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c212a46d3612dc8d031d3520f5933cd3cc7fe3b9</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/eLSyG8BPGS3QbWJMBklYFtduFP8.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma mulher acorda em um planeta distante e encontra a tripulação de sua estação espacial brutalmente morta. Sua investigação sobre o que aconteceu desencadeia uma terrível cadeia de eventos.</info>
 </item>
 
 <item>
@@ -95,15 +112,6 @@
 <fanart></fanart>
 <info>Christina costumava trabalhar como anfitriã em festas de luxo, mas hoje ela é a responsável por promovê-las. Seu único problema é a presença da polícia investigando os seus negócios e das demais garotas que gostariam de estar no seu lugar.</info>
 </item>
-
-<item>
-<title>[COLOR silver][B] THE LAST OF US 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title> 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b0c1a9dff5e2c7ba6493386eda8e11385c2e269$nome=EP.1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:103f5baf946a397b7ef452ed841f54819a26a550$nome=EP.2</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-</item> 
 
 <item>
 <title>[COLOR silver][B] PANGOLIN: A VIAGEM DE KULU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -197,14 +205,6 @@
 <info>Baseado na obra e roteiros de Domingos Oliveira, é um filme com 04 histórias curtas, independentes, que trazem as delícias, estranhezas e dificuldades dos relacionamentos amorosos contemporâneos.
 </info>
 </item>
-
-<item>
-<title>[COLOR silver][B] THE LAST OF US 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title> 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b0c1a9dff5e2c7ba6493386eda8e11385c2e269</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg</thumbnail>
-<fanart></fanart>
-<info>Na segunda temporada de The Last of Us, Joel e Ellie vivem em paz numa comunidade de humanos, mas as ações de Joel no final do primeiro ano voltam para assombrá-los e jogar a dupla em um novo ciclo de violência.</info>
-</item> 
 
 <item>
 <title>[COLOR silver][B] O MELHOR DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
