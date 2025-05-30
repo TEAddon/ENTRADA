@@ -5,4 +5,4 @@
 <thumbnail>https://media.themoviedb.org/t/p/original/uKoAaTUGMMtbk0BTn1JsNKw9oej.jpg</thumbnail>
 <fanart></fanart>
 <info>Carl, um ex-detetive de primeira linha, é atormentado pela culpa após um ataque que deixou seu parceiro paralisado e outro policial morto. Em seu retorno ao trabalho, Carl é designado para um caso arquivado que consumirá sua vida.</info>
-</item>
+</item> 
