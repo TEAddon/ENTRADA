@@ -2,6 +2,17 @@
 
 <channels> 
 <channel>
+<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  white] WANDINHA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink></externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/ooBR3qulC40ws0QkYBUAYFKmLRE.jpg</thumbnail>
+<fanart></fanart>
+<info></channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels> 
+<channel>
 <name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  white] FUNDAÇÃO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
 <externallink>https://github.com/TEAddon/ENTRADA/blob/main/fundacao</externallink>
 <thumbnail>https://media.themoviedb.org/t/p/original/n1rTxKQkT80ZwG8jIQRxvSDeapo.jpg</thumbnail>
