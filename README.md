@@ -15,6 +15,19 @@
 
 <channels>
 <channel>
+<name>[COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR] [COLOR yellow] GRUPO FACEBOOK [/COLOR][COLOR white] (alan78turing@gmail.com)[/COLOR] [COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR]</name>
+<externallink>https://www.facebook.com/groups/4130686673837616/?ref=share&mibextid=NSMWB</externallink>
+<thumbnail>https://www.facebook.com/share/p/14KUroh7ZxA/</thumbnail>
+<fanart></fanart>
+<info>
+[COLOR yellow][/COLOR]   [COLOR de green][/COLOR]</info>
+</channel>
+</channels> 
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR] [COLOR yellow] DOAÇÃO VIA PIX[/COLOR][COLOR white] (alan78turing@gmail.com)[/COLOR] [COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR]</name>
 <externallink></externallink>
 <thumbnail>https://ia803205.us.archive.org/23/items/pix_20240728/PIX.jpg</thumbnail>
