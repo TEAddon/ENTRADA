@@ -28,7 +28,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR] [COLOR yellow] DOAÇÃO VIA PIX[/COLOR][COLOR white][/COLOR] [COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR]</name>
+<name>[COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR] [COLOR yellow] DOAÇÃO PIX[/COLOR][COLOR white][/COLOR] [COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR]</name>
 <externallink></externallink>
 <thumbnail>https://ia803205.us.archive.org/23/items/pix_20240728/PIX.jpg</thumbnail>
 <fanart></fanart>
