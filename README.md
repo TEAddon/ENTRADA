@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR] [COLOR yellow] GRUPO FACEBOOK [/COLOR][COLOR white] (alan78turing@gmail.com)[/COLOR] [COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR]</name>
+<name>[COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR] [COLOR yellow] GRUPO FACEBOOK [/COLOR][COLOR white][/COLOR] [COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR]</name>
 <externallink>https://www.facebook.com/groups/4130686673837616/?ref=share&mibextid=NSMWB</externallink>
 <thumbnail>https://www.facebook.com/share/p/14KUroh7ZxA/</thumbnail>
 <fanart></fanart>
