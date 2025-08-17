@@ -16,7 +16,7 @@
 <channels>
 <channel>
 <name>[COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR] [COLOR yellow] GRUPO FACEBOOK [/COLOR][COLOR white][/COLOR] [COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR]</name>
-<externallink></externallink>
+<externallink>https://www.facebook.com/share/g/15yFGo9X4i/</externallink>
 <thumbnail>https://dn721504.ca.archive.org/0/items/img-20250816-wa-0244/IMG-20250816-WA0244.jpg</thumbnail>
 <fanart></fanart>
 <info>
