@@ -17,7 +17,7 @@
 <channel>
 <name>[COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR] [COLOR yellow] GRUPO FACEBOOK [/COLOR][COLOR white][/COLOR] [COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR]</name>
 <externallink></externallink>
-<thumbnail>https://archive.org/details/img-20250816-wa-0244</thumbnail>
+<thumbnail>https://dn721504.ca.archive.org/0/items/img-20250816-wa-0244/IMG-20250816-WA0244.jpg</thumbnail>
 <fanart></fanart>
 <info>
 [COLOR yellow][/COLOR]   [COLOR de green][/COLOR]</info>
