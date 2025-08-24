@@ -1,6 +1,17 @@
 
 <channels> 
 <channel>
+<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  white] INVASÃO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels> 
+<channel>
 <name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  white] AMOR PLATÔNICO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/amor%20platonico</externallink>
 <thumbnail>https://media.themoviedb.org/t/p/original/lZE1EbK6q7MDoOttr2ccPiRwxQ6.jpg</thumbnail>
