@@ -331,7 +331,9 @@
 
 <item>
 <title>[COLOR silver][B] PLURIBUS 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93e30ee780208f61901bd827916c070a5ec5cefc</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93e30ee780208f61901bd827916c070a5ec5cefc$nome=EP.1/2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3bc81ed843d8b95abde09e147900638f6ee2a53$nome=EP.3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6927ebc1ed7432ac7c7d0fe8a84b39c20e25f708$nome=EP.4</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/2zb3wcM5FuhC8WFDexlMaPIf5bQ.jpg</thumbnail>
 <fanart></fanart>
 <info>A pessoa mais triste da Terra deve salvar o mundo da felicidade.</info>
