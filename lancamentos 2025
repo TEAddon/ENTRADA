@@ -269,7 +269,9 @@
 
 <item>
 <title>[COLOR silver][B] LANDMAN 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:814f833a5a58db51c6d9c35b04906e22f5344ee6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:814f833a5a58db51c6d9c35b04906e22f5344ee6$nome=EP.1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c589f1727bff5e88f912d41bce31ad025ef1910a$nome=EP.2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af9bd5da363b53e5faa610e689e22193166c6568$nome=EP.3</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/euP1ytkbTAbpHwSv5vGdCip9mOH.jpg</thumbnail>
 <fanart></fanart>
 <info>Ambientada nas cidades em expansão do Texas, Landman é uma fábula de busca por fortuna no mundo do petróleo. A série narra o contraste entre operários e bilionários, que alimentam um boom que está remodelando nosso clima, economia e geopolítica.</info>
