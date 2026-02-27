@@ -15,20 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR] [COLOR yellow] GRUPO FACEBOOK [/COLOR][COLOR white][/COLOR] [COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR]</name>
-<externallink>https://www.facebook.com/share/g/15yFGo9X4i/</externallink>
-<thumbnail>https://dn721504.ca.archive.org/0/items/img-20250816-wa-0244/IMG-20250816-WA0244.jpg</thumbnail>
-<fanart></fanart>
-<info>
-[COLOR yellow][/COLOR]   [COLOR de green][/COLOR]</info>
-</channel>
-</channels> 
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR] [COLOR yellow] DOAÇÃO PIX[/COLOR][COLOR white][/COLOR] [COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR]</name>
+<name>[COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR] [COLOR yellow] DOAÇÃO-FONTE PC [/COLOR][COLOR white][/COLOR] [COLOR green][/COLOR][COLOR green][/COLOR][COLOR green][/COLOR]</name>
 <externallink></externallink>
 <thumbnail>https://ia803205.us.archive.org/23/items/pix_20240728/PIX.jpg</thumbnail>
 <fanart></fanart>
