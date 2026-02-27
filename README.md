@@ -20,8 +20,8 @@
 <thumbnail>https://ia803205.us.archive.org/23/items/pix_20240728/PIX.jpg</thumbnail>
 <fanart></fanart>
 <info>
-[COLOR yellow][/COLOR] Estamos aqui para falar sobre uma iniciativa que, com certeza, pode mudar a forma como assistimos filmes online. Freedons é um repositório de filmes online via streaming, que busca levar entretenimento de qualidade para todos, de forma gratuita e acessível.
-Sabemos que muitas pessoas dependem de plataformas de streaming para assistir filmes, mas nem sempre esses serviços são acessíveis para todos. Por isso, Freedons nasceu com o objetivo de democratizar o acesso aos filmes, sem cobrar um centavo por isso.
+[COLOR yellow][/COLOR] Estamos aqui para falar sobre uma iniciativa que, com certeza, pode mudar a forma como assistimos filmes online. TEADDONS é um repositório de filmes online via streaming, que busca levar entretenimento de qualidade para todos, de forma gratuita e acessível.
+Sabemos que muitas pessoas dependem de plataformas de streaming para assistir filmes, mas nem sempre esses serviços são acessíveis para todos. Por isso, TEADDONS nasceu com o objetivo de democratizar o acesso aos filmes, sem cobrar um centavo por isso.
 Mas para manter esse projeto vivo e funcionando, precisamos de sua ajuda. Todas as doações são importantes e ajudam a manter o site no ar, atualizado e com uma grande variedade de filmes para todos os gostos. [COLOR de green][/COLOR]</info>
 </channel>
 </channels> 
