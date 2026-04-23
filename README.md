@@ -35,16 +35,7 @@ Mas para manter esse projeto vivo e funcionando, precisamos de sua ajuda. Todas 
 <thumbnail>https://ia600109.us.archive.org/34/items/oficial-qrcode/OFICIAL%20QRcode.jpg</thumbnail>
 <fanart></fanart>
 <info>
-[COLOR yellow][/COLOR] Bem-vindos ao Grupo TEADDON do mundo KODI! 
-Criei este espaço especialmente para todos que amam filmes e séries. Aqui vamos trocar dicas, novidades, indicações, críticas, atualizações e tudo o que envolve o universo do cinema e do streaming. 
- Objetivo do grupo:
- Compartilhar novidades de filmes e séries
- Trocar ideias e recomendações
- Conversar sobre lançamentos e clássicos
- Criar uma comunidade divertida e respeitosa
-Sintam-se à vontade para participar, postar conteúdos e interagir.
-O grupo é de todos nós, então bora transformar este espaço em um lugar top para amantes da sétima arte!
-Sejam todos muito bem-vindos! [COLOR de green][/COLOR]</info>
+[COLOR yellow][/COLOR] [COLOR de green][/COLOR]</info>
 </channel>
 </channels> 
 
