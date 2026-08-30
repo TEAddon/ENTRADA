@@ -1,4 +1,3 @@
-# ENTRADA
 
 <channels>  
 <channel>
