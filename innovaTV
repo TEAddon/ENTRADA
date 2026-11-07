@@ -37,3 +37,31 @@
 <fanart></fanart>
 <info></info>
 </item>
+
+<item>
+<title>[COLOR silver][B] TV CHANNEL [/COLOR][/B][COLOR yellow]  TV WEB  [B][/COLOR][/B]</title>
+<link>https://flu.playgo.tv.br/uchannel/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TV UOL [/COLOR][/B][COLOR yellow]  TV WEB  [B][/COLOR][/B]</title>
+<link>https://live01.innovatv.tv.br/Uol_720/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TV REDE BRASIL [/COLOR][/B][COLOR yellow]  TV WEB  [B][/COLOR][/B]</title>
+<link>https://live01.innovatv.tv.br/Uol_720/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+
+
