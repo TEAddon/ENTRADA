@@ -8,6 +8,7 @@ blo
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:691C26FE5F08AAFCAED61C8872FB97E639AE1385$nome=VINGADORES: GUERRA INFINITA</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:083992495565e8b8f841e1aaea1cbf07bea036cc$nome=VINGADORES: ULTIMATO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7fa3b4c7bdcaf41014612343143548f5d60eccc$nome=VINGADORES: ENCORE</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=VINGADORES:DOUTOR DESTINO( BREVE )</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/yQpAleQ1KHebVem2vwWL6VPqILT.jpg</thumbnail>
 <fanart></fanart>
 <info>Uma série de filmes de super-heróis produzida pela Marvel Studios com base na equipe de super-heróis Marvel Comics do mesmo nome, e parte do Universo Cinematográfico Marvel (MCU). A série apresenta um elenco dos filmes da série Universo Cinematográfico Marvel, uma vez que unem forças para a organização de manutenção da paz com a ajuda da S.H.I.E.L.D. liderado por Nick Fury.</info>
@@ -19,6 +20,14 @@ blo
 <thumbnail>https://media.themoviedb.org/t/p/original/1TawJNfpJJ8xtVEicNBzOujsBNR.jpg</thumbnail>
 <fanart></fanart>
 <info>Acompanhe a saga de Odisseu, o lendário rei de Ítaca, em sua longa e perigosa jornada de retorno ao lar após a Guerra de Troia. O relato narra seus confrontos com seres míticos, como o ciclope Polifemo, as sedutoras sereias e a ninfa Calipso, enquanto ele luta contra o destino para se reencontrar com sua fiel esposa, Penélope.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VINGADORES: DOUTOR DESTINO ( BREVE ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/8wEX630x82HIWw5qL8MZpCIsAh0.jpg</thumbnail>
+<fanart></fanart>
+<info>Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.</info>
 </item>
 
 <item>
