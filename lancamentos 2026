@@ -1,5 +1,3 @@
-blo
-
 
 <item>
 <title>[COLOR silver][B] COLECTION-VINGADORES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -12,6 +10,14 @@ blo
 <thumbnail>https://media.themoviedb.org/t/p/original/yQpAleQ1KHebVem2vwWL6VPqILT.jpg</thumbnail>
 <fanart></fanart>
 <info>Uma série de filmes de super-heróis produzida pela Marvel Studios com base na equipe de super-heróis Marvel Comics do mesmo nome, e parte do Universo Cinematográfico Marvel (MCU). A série apresenta um elenco dos filmes da série Universo Cinematográfico Marvel, uma vez que unem forças para a organização de manutenção da paz com a ajuda da S.H.I.E.L.D. liderado por Nick Fury.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VINGADORES: DOUTOR DESTINO TRAILER ( BREVE ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=losXeIbUR18</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/8wEX630x82HIWw5qL8MZpCIsAh0.jpg</thumbnail>
+<fanart></fanart>
+<info>Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.</info>
 </item>
 
 <item>
@@ -29,14 +35,6 @@ blo
 <thumbnail>https://media.themoviedb.org/t/p/original/sLO3aAWmNx9bOKJL4P5DYHS7SeQ.jpg</thumbnail>
 <fanart></fanart>
 <info>A França é ocupada pelos nazistas, mas um homem se recusa a desistir. Sem tropas, sem país e movido por uma convicção irracional, o general De Gaulle tenta convencer o mundo de que a batalha pelo seu país ainda não terminou.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] VINGADORES: DOUTOR DESTINO ( BREVE ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/8wEX630x82HIWw5qL8MZpCIsAh0.jpg</thumbnail>
-<fanart></fanart>
-<info>Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.</info>
 </item>
 
 <item>
